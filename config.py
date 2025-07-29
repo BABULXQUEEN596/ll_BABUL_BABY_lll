@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","pileapp")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ll_BABUL_BABY_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "RADHE_MUSIC_X_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "HEENA_X_QUEEN_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "RADHE")
+BOT_NAME = getenv("BOT_NAME" , "BABUL")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "SUNA_NA_JI")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002263509047))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002843529862))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7221110987))
+OWNER_ID = int(getenv("OWNER_ID", 8094471589))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ASIFXQUEEN903/RADHEXMUSICBYXQUEEN903",
+    "https://github.com/BABULXQUEEN596/ll_BABUL_BABY_lll",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/feeling_sad_Anu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/feeling_sad_Anu")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABUL_ON_TG")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/XQUEENSERVERBABUL")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/oofdlt.png"
+    "START_IMG_URL", "https://files.catbox.moe/uyz0yc.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/oofdlt.png"
+    "PING_IMG_URL", "https://files.catbox.moe/uyz0yc.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-STATS_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/oofdlt.png"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/oofdlt.png"
-STREAM_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/oofdlt.png"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/c4jtlf.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/c4jtlf.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/c4jtlf.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
