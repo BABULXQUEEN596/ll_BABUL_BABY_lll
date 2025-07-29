@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐒ᴛʀᴀɴɢᴇʀ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 𝐁ᴀʙᴜʟ 𝘅 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
@@ -12,4 +12,4 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN903/RADHEXMUSICBYXQUEEN903"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BABULXQUEEN596/ll_BABUL_BABY_lll"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
